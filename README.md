@@ -77,13 +77,6 @@ Pinecone Vector DB
 
 ---
 
-# 💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak9453&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
