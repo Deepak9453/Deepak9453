@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20Kumar%20Prajapati&fontSize=40&fontColor=ffffff"/>
 </p>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Prajapati</h1>
-<h3 align="center">🚀 Applied AI Engineer | Python Backend Developer | Generative AI Enthusiast | Data Analyst</h3>
+<h3 align="center">🚀 AI Engineer | Python Backend Developer | Generative AI | Data Analyst</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Deepak9453&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
